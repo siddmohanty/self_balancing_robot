@@ -1,2 +1,3 @@
 # self_balancing_robot
-Self balancing Robot stuff
+
+To run the ```Simulation.py```, install ```pymunk``` and ```pyglet``` libraries.
